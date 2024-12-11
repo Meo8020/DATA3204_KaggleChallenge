@@ -13,7 +13,7 @@ Tree-based models, such as Decision Trees can highlight feature importance by ev
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/82f04f70-fc51-43fe-b183-c7d54720ce1e" />
 
 ## Conclusions and Future Work
-With all models obtaining perfect accuracy, it determines how strongly tied the features are to the target. In the future, I would introduce more data so that the model can capture underlying patterns that may go unseen due to lack of information. 
+With all models obtaining perfect accuracy, it determines how strongly tied the features are to the target. In the future, I would introduce more data so that the model can capture underlying patterns that may go unseen due to lack of information. And introduce a linear classifier like a Logistic Regression.
 
 ## Citations
 https://www.kaggle.com/datasets/uciml/mushroom-classification
